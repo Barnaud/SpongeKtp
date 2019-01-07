@@ -1,0 +1,14 @@
+[
+    {
+        "modid": "ktp",
+        "name": "Ktp",
+        "version": "1.0-SNAPSHOT",
+        "description": "Pluggin for minecraft ktp",
+        "dependencies": [
+            "spongeapi@7.0.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.0.0"
+        ]
+    }
+]
